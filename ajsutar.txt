@@ -1,0 +1,2 @@
+(home)/generate-ai-report/index.ts - ajustar meses
+_data/get-dashboard/index.ts
